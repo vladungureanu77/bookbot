@@ -21,5 +21,6 @@ def main():
     print("--------- Character Count -------")
     for item in Sort_char:
         print(f"{item['char']}: {item['num']}")
+        print("magda")
 
 main()
